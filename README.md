@@ -28,7 +28,7 @@ The goal of the repository is to provide an implementation of DeepSeparator and 
 
 EEGdenoiseNet: a benchmark dataset that is suited for training and testing deep learning-based EEG denoising models, as well as for comparing the performance across different models.
 
-The paper of this dataset is publicly available on arXiv(https://arxiv.org/abs/2009.11662).
+The paper of this dataset is publicly available on Journal of Neural Engineering (https://iopscience.iop.org/article/10.1088/1741-2552/ac2bf8).
 
 Due to size limitations, EEG and EMG epochs with a sample rate of 512hz are temporarily placed in the G-node database (https://gin.g-node.org/NCClab/EEGdenoiseNet). 
 
